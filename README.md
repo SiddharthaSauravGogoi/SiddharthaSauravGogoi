@@ -1,3 +1,5 @@
+[![Visits Badge](https://badges.pufler.dev/visits/SiddharthaSauravGogoi/SiddharthaSauravGogoi)](https://github.com/SiddharthaSauravGogoi)
+
 ### Hi there 👋
 
 I'm Siddhartha. I currently work as a Software Developer and my work revolves around the JavaScript ecosystem. I tend to work with the MERN stack (mostly) and my interests lie on frontend development with ReactJS. Apart from programming, I like to read Light Novels and watch animes. If you have any queries, do not hesitate to hit me up!
@@ -16,3 +18,4 @@ I'm Siddhartha. I currently work as a Software Developer and my work revolves ar
 <a href="https://github.com/SiddharthaSauravGogoi/SiddharthaSauravGogoi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaSauravGogoi&layout=compact" />
 </a>
+
