@@ -4,7 +4,7 @@ I'm Siddhartha. I currently work as a Software Developer and my work revolves ar
 
 
 #### Few things about me
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Computer Vision**
 - 👯 I’m looking to collaborate on any projects (hmu!!)
 - 🤔 I’m looking for help with **Architecure** & **System Design**
 - 💬 Ask me about anything, I'll try to help.
