@@ -9,11 +9,4 @@ I'm Siddhartha. I currently work as a Software Developer and my work revolves ar
 - 🤔 I’m looking for help with **Architecure** & **System Design**
 - 💬 Ask me about anything, I'll try to help.
 
-<a href="https://github.com/SiddharthaSauravGogoi/SiddharthaSauravGogoi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SiddharthaSauravGogoi&show_icons=true&hide=prs,contribs" />
-</a>
-
-<a href="https://github.com/SiddharthaSauravGogoi/SiddharthaSauravGogoi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SiddharthaSauravGogoi&layout=compact" />
-</a>
 
