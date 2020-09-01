@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm Siddhartha. I currently work as a Software Developer and my work revolves around the JavaScript ecosystem. I tend to work with the MERN stack (mostly) and my interests lie on frontend development with ReactJS. Apart from programming, I like to read Light Novels and watch animes. If you have any queries, do not hesitate to hit me up!
-
-
-#### Few things about me
-- 🌱 I’m currently learning **Computer Vision**
-- 👯 I’m looking to collaborate on any projects (hmu!!)
-- 🤔 I’m looking for help with **Architecure** & **System Design**
-- 💬 Ask me about anything, I'll try to help.
+- :computer: I work as a Software Dev mainly with JavaScript.
+- :pencil: I like coding on the frontend more than the backend. Especially ReactJS. 
+- 🌱  I’m currently learning **Computer Vision** & **GraphQL**.
+- :neckbeard: I'm practice competitive programming whenever I get time.
+- 🤔  I’m looking for help with **Architecure** & **System Design**.
+- 👯  I’m looking to collaborate on any projects (hmu!!).
+- 💬  Ask me about anything, I'll try to help.
+- :pencil2: I blog about #100DaysOfCode journey and random learnings [here](https://siddharthasauravgogoi.in/blog)
+- :email: You can reach me at [siddharthasauravgogoi.in](https://siddharthasauravgogoi.in)
 
 
