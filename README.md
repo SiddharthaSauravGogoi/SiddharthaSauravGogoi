@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :computer: I work as a Software Dev mainly with JavaScript.
+- :computer: I work as a Software Dev.
 - :pencil: I like coding on the frontend more than the backend. Especially ReactJS. 
 - 🌱  I’m currently learning **Computer Vision** & **GraphQL**.
 - :neckbeard: I practice competitive programming whenever I can.
