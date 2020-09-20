@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-- :computer: I work as a Software Dev.
-- :pencil: I like coding on the frontend more than the backend. Especially ReactJS. 
-- 🌱  I’m currently learning **Computer Vision** & **GraphQL**.
-- :neckbeard: I practice competitive programming whenever I can (still a noob).
-- 🤔  I’m looking for help with **Architecure** & **System Design**.
-- 👯  I’m looking to collaborate on any projects (hmu!!).
-- 💬  Ask me about anything, I'll try to help.
-- :pencil2: I blog about #100DaysOfCode journey and random learnings [here](https://siddharthasauravgogoi.in/blog)
-- :email: You can reach me at [siddharthasauravgogoi.in](https://siddharthasauravgogoi.in)
+- Software Dev.
+- I like coding on the frontend more than the backend. Especially ReactJS. 
+- I’m currently learning **Computer Vision** & **GraphQL**.
+- I practice competitive programming whenever I can (still a noob).
+- I’m looking for help with **Architecure** & **System Design**.
+- I’m looking to collaborate on any projects (hmu!!).
+- I blog about #100DaysOfCode journey and random learnings [here](https://siddharthasauravgogoi.in/blog)
+- You can reach me at [siddharthasauravgogoi.in](https://siddharthasauravgogoi.in)
 
 
