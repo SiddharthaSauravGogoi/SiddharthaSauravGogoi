@@ -27,7 +27,7 @@ Fun fact: I finished over 1200 chapters of a xianxia light novel in 2 days!!!
 | Frontend Developer    | Pipehaul       | React, Redux, Vanilla JS        | 02.08.2021 — 02.02.2022    |
 | Freelance Developer   | Freelance      | React, Nodejs, Gatsby           | 01.12.2020 — 01.05.2021    |
 | Software Developer    | Kayadev AI     | React, Node, Python             | 01.11.2018 — 01.11.2020    |
-| Fullstack Intern      | Tech47         | React, Node, Gatsby, SASS       | 01.12.2018 — 01.01.2020    |
+| Fullstack Intern      | Tech47         | React, Node, Gatsby, SASS       | 01.7.2018 — 01.10.2020    |
 
 <hr />
 
