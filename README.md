@@ -11,7 +11,7 @@ I'm a Frontend Developer from India.
 - Looking for an opportunity!
 - React/TypeScript/Python
 - Building a lot of things at [github](https://github.com/SiddharthaSauravGogoi)
-- Trying to document my learnings at my [blog](https://www.siddharthasauravgogoi.in/blog)
+- Trying to document all learnings at my [blog](https://www.siddharthasauravgogoi.in/blog)
 
 <hr />
 
