@@ -30,5 +30,3 @@ Fun fact: I finished over 1200 chapters of a xianxia light novel in 2 days!!!
 | Fullstack Intern      | Tech47         | React, Node, Gatsby, SASS       | 01.07.2018 — 01.10.2018    |
 
 <hr />
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthasauravgogoi&" alt="siddharthasauravgogoi" /></p>
