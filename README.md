@@ -17,9 +17,3 @@ I'm a Frontend Developer from India.
 <!-- - Trying to document all learnings at my [blog](https://www.siddharthasauravgogoi.in/blog)
  -->
 <hr />
-
-```
-Fun fact: I finished over 1200 chapters of a xianxia light novel in 2 days!!!
-```
-
-<hr />
